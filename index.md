@@ -10,5 +10,6 @@
 
 ## My Resume
 - [My Resume](resume.png)
-- ![myResume](resume.png)
+
+![myResume](resume.png)
   
