@@ -11,8 +11,8 @@
 - [My instagram](https://www.instagram.com/sunflower111xd/?hl=en)
 
 ## My Resume 
-- [My Resume](resume_yes.png)
+- [My Resume](resume.png)
 
-![myResume](resume_yes.png)
+[![myResume](resume_thumb.png)](resume.png)
 
   
